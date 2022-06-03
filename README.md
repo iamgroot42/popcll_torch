@@ -5,7 +5,8 @@
 ### To build package yourself
 
 1. `cd` into `popcll_torch`
-2. Run `python setup.py install`
+2. Run `python setup.py install` to install.
+3. Run `python setup.py bdist_wheel` to build wheel (for sharing).
 
 ### To use pre-built package
 
